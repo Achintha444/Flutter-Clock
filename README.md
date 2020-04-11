@@ -20,7 +20,7 @@ This widget will show the design of the hours and minutes in the app.
 
 This widget will show the design of seconds in the app.
 
-## Colon Widget (:)
+### Colon Widget (:)
 
 This widget will show the ':' in the app.
 
